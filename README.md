@@ -3,6 +3,10 @@
 > 승객이 넘치기 전에 지하철 노선을 그려 도시를 굴러가게 만드는 **실시간 노선 경영 게임**입니다.
 > Unity 6로 제작한 3인 팀 토이 프로젝트이며, *Mini Metro*의 게임 디자인을 학습 목적으로 재해석해 직접 구현했습니다.
 
+![미니 메트로 모작 플레이 화면](docs/images/gameplay.png)
+
+원본 저장소: [Devel-Rocket-ClassRoom/toy-project-0-team-7](https://github.com/Devel-Rocket-ClassRoom/toy-project-0-team-7)
+
 <div align="center">
 
 `Unity 6000.3.11f1` · `C#` · `2D` · `3인 팀` · `2026.04.29 ~ 2026.05.08`
